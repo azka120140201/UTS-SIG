@@ -1,19 +1,17 @@
 # UTS-SIG
-Web GIS Kota Padang
+
+**Web GIS Kota Padang**
+
 Ini adalah proyek Web GIS yang menampilkan data Kota Padang menggunakan QGIS dan diekspor menggunakan plugin QGIS2Web. Proyek ini mencakup berbagai fitur dan lapisan, serta dapat diakses melalui web browser.
 
-Fitur Utama:
-Bilah Alamat: Pengguna dapat mencari alamat atau lokasi tertentu di Kota Padang.
+### Fitur Utama:
 
-Perbesaran & Pergeseran: Pengguna dapat memperbesar atau memperkecil peta serta menggeser tampilan untuk melihat detail yang diinginkan.
+1. **Address Bar**: Memungkinkan pengguna untuk memasukkan alamat atau lokasi tertentu untuk langsung ditampilkan di peta.
+   
+2. **Zoom-in & Zoom-out**: Mengizinkan pengguna untuk memperbesar atau memperkecil tampilan peta untuk melihat detail yang lebih dekat atau lebih luas.
 
-Geolocate Pengguna: Lokasi pengguna dapat diidentifikasi secara otomatis di peta.
+3. **Geolocate user**: Mengidentifikasi lokasi pengguna secara otomatis di peta.
 
-Alat Pengukuran: Terdapat alat untuk mengukur jarak, luas, dan dimensi lainnya di peta.
+4. **Measure tool**: Alat untuk mengukur jarak, luas, atau dimensi lainnya di peta.
 
-Daftar Lapisan: Pengguna dapat mengaktifkan atau menonaktifkan lapisan yang tersedia dan melihat legenda terkait.
-
-Cara Menggunakan:
-Buka file index.html di web browser untuk mengakses peta interaktif.
-
-Gunakan fitur-fitur seperti pencarian alamat, perbesaran, pengukuran, dan lainnya sesuai kebutuhan.
+5. **Toggle layer list**: Memungkinkan pengguna untuk mengaktifkan atau menonaktifkan daftar lapisan yang tersedia di peta.
