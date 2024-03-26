@@ -1,6 +1,7 @@
 # UTS-SIG
 
 **Web GIS Kota Padang**
+![Screenshot 2024-03-26 213215](https://github.com/azka120140201/UTS-SIG/assets/101125177/1c72a33c-8a29-4e2f-9a02-d039d6327c19)
 
 Ini adalah proyek Web GIS yang menampilkan data Kota Padang menggunakan QGIS dan diekspor menggunakan plugin QGIS2Web. Proyek ini mencakup berbagai fitur dan lapisan, serta dapat diakses melalui web browser.
 
